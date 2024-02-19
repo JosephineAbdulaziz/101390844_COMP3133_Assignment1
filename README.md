@@ -3,4 +3,5 @@
 this code was written by Josefin Abdulaziz 101390844
 for assignment 1  COMP3133- Full Stack || 
 It is a Backend application using NodeJS, Express, GraphQL and 
-MongoDB
+MongoDB 
+User will be able to signup/login and do CRUD operations on Employees 
