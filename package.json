@@ -1,0 +1,20 @@
+{
+  "name": "101390844_comp3133_assignment1",
+  "version": "1.0.0",
+  "description": "this code was written by Josefin Abdulaziz 101390844\r for assignment 1  COMP3133- Full Stack || \r It is a Backend application using NodeJS, Express, GraphQL and \r MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Josefin Abdulaziz 101390844",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.2",
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.18.2",
+    "graphql": "^16.8.1",
+    "mongoose": "^8.1.3",
+    "nodemon": "^3.0.3"
+  }
+}
